@@ -1,27 +1,27 @@
 {
      "Source1": [
-          "10.46.30.3",
-          "/32",
-          "Trusted"
-          Location:"Colo East"
+          "Source":"10.46.30.3",
+          "Subnet":"/32",
+          "Zone":"Trusted"
+          "Location":"Colo East"
           
      ],
      "Source2": [
-          "10.47.46.5",
-          "/32",
-          "Trusted"
-          Location:"Colo West"
+          "Source":"10.47.46.5",
+          "Subnet":"/32",
+          "Zone":"Trusted"
+          "Location":"Colo West"
      ]
      "Source2": [
-          "10.47.56.6",
-          "/32",
-          "Secured"
-          Location:"Colo West"
+          "Source":"10.47.56.6",
+          "Subnet":"/32",
+          "Zone":"Secured"
+          "Location":"Colo West"
      ]
      "Source2": [
-          "10.47.56.9",
-          "/32",
-          "Secured"
-          Location:"Colo West"
+          "Source":"10.47.56.9",
+          "Subnet":"/32",
+          "Zone":"Secured"
+          "Location":"Colo West"
      ]
 }
