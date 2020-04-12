@@ -1,7 +1,7 @@
 {
      "Source1": [
-          "Source":"10.46.30.3",
-          "Subnet":"/32",
+          "Source": "10.46.30.3",
+          "Subnet": "/32",
           "Zone":"Trusted"
           "Location":"Colo East"
           
