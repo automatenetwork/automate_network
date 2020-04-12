@@ -1,24 +1,24 @@
 {
-     "Source1": [
+     "Source1" [
           "Source : 10.46.30.3",
           "Subnet :  /32",
           "Zone : Trusted"
           "Location : Colo East"
           
      ],
-     "Source2": [
+     "Source2" [
           "Source : 10.47.46.5",
           "Subnet : /32",
           "Zone : Trusted"
           "Location : Colo West"
      ]
-     "Source2": [
+     "Source2" [
           "Source : 10.47.56.6",
           "Subnet : /32",
           "Zone : Secured"
           "Location : Colo West"
      ]
-     "Source2": [
+     "Source2" [
           "Source : 10.47.56.9",
           "Subnet : /32",
           "Zone : Secured"
